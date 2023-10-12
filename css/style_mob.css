@@ -1,0 +1,662 @@
+@media (max-width: 1350px) {
+  .img1 {
+    right: 173px;
+  }
+
+  .img2_hidden {
+    top: -45px;
+    left: 257px;
+  }
+
+  .img_hidden {
+    top: 860px;
+    left: 202px;
+  }
+}
+@media (max-width: 1300px) {
+  .img2_hidden {
+    top: -45px;
+    left: 237px;
+  }
+
+  .img_hidden {
+    top: 830px;
+    left: 172px;
+  }
+
+  .header_subtitle .price2 {
+    padding: 0.35em 12px 0.2525em 35px;
+  }
+
+  .img1 {
+    top: 210px;
+    right: 143px;
+  }
+
+  .scooter_club_img_background {
+    top: 80px;
+    left: -10px;
+  }
+}
+@media (max-width: 1250px) {
+  .img1, .img2_hidden, .img_hidden {
+    display: none;
+  }
+}
+@media (max-width: 1200px) {
+  .mob1 {
+    display: block;
+  }
+  .mob1 img {
+    border-radius: 50px;
+  }
+  .mob1 .mob1_title {
+    width: 690px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  .mob1 .mob1_title h1 {
+    color: #21201F;
+    font-family: text-black;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 100%;
+    letter-spacing: -1.12px;
+  }
+  .mob1 .mob1_title p {
+    color: #21201F;
+    font-family: text-medium;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    margin: 50px 0;
+  }
+  .mob1 .mob1_title p br {
+    display: none;
+  }
+
+  .subscription_wrapper {
+    display: none;
+  }
+
+  .img2_hidden {
+    top: -40px;
+    left: 227px;
+  }
+
+  .header_subtitle .price2 {
+    padding: 0.30em 12px 0.2025em 35px;
+  }
+
+  .img1 {
+    top: 230px;
+    right: 113px;
+  }
+
+  .owl-nav {
+    width: 120px;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .owl-nav .owl-prev {
+    margin-top: 7px;
+  }
+
+  .owl-next {
+    margin-top: 7px;
+  }
+
+  .owl-next:hover, .owl-prev:hover {
+    opacity: 0.5;
+    transition: .2s;
+    transform: scale(1.2);
+  }
+
+  .scooter_club_img {
+    left: 0;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child h1 {
+    width: 300px;
+    font-size: 40px;
+  }
+}
+@media (max-width: 1100px) {
+  header {
+    max-width: 1440px;
+    height: 804px;
+  }
+
+  .header_container {
+    flex-direction: column;
+  }
+
+  .container {
+    margin: 0 auto;
+    width: 465px;
+  }
+  .container a {
+    display: none;
+  }
+
+  .header_title {
+    font-size: 71px;
+  }
+
+  .header_subtitle {
+    font-size: 24px;
+  }
+
+  .samokat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0px;
+    right: 0px;
+  }
+
+  .mob1_title {
+    margin: 0 auto;
+    margin-left: 0;
+  }
+
+  .samokat_img {
+    width: 67.4vw;
+  }
+
+  .header_subtitle .price2 {
+    padding: 0.54em 12px 0.2925em 35px;
+  }
+
+  main {
+    margin-top: 370px;
+  }
+
+  .main_club {
+    margin-left: 0px;
+  }
+  .main_club h1 {
+    margin: 0 auto;
+  }
+
+  .club_row,
+  .club_row2 {
+    margin-left: 100px;
+  }
+
+  .club_row2 {
+    margin-top: 30px;
+  }
+
+  .scooter_club_img {
+    display: none;
+  }
+
+  .scooter_club_wrapper:first-child div:first-child {
+    width: 800px;
+  }
+
+  .scooter_club_wrapper h1 {
+    max-width: 600px;
+  }
+
+  .scooter_club_wrapper:last-child {
+    margin: 0 auto;
+    flex-direction: column;
+  }
+
+  .scooter_club_wrapper {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child, .scooter_club_wrapper:last-child div:last-child p {
+    max-width: 800px;
+  }
+  .scooter_club_wrapper:last-child div:last-child br, .scooter_club_wrapper:last-child div:last-child p br {
+    display: none;
+  }
+  .scooter_club_wrapper:last-child div:last-child h1, .scooter_club_wrapper:last-child div:last-child p h1 {
+    width: 800px;
+  }
+
+  .scooter_club_img1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child button {
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child h1 {
+    font-size: 48px;
+    margin-left: 0;
+  }
+  .scooter_club_wrapper:last-child div:last-child p {
+    margin-left: 0;
+  }
+
+  footer {
+    max-width: 1440px;
+  }
+  footer p {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 825px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .container {
+    width: 365px;
+  }
+
+  .Yandex_img {
+    width: 112.351px;
+    margin-top: 32px;
+  }
+
+  .samokat {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .header_title {
+    width: 200px;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: -0.72px;
+    margin-top: 28px;
+  }
+
+  .header_subtitle {
+    width: 305px;
+    font-size: 18px;
+    margin-top: 23px;
+  }
+
+  .samokat-background {
+    display: none;
+  }
+
+  .header_subtitle .price2 {
+    padding: 10px 10px 5px 50px;
+    font-size: 1.47vw;
+    margin-left: -50px;
+  }
+
+  main {
+    margin-top: -100px;
+  }
+
+  .main_club h1 {
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: -0.64px;
+  }
+
+  .club_row,
+  .club_row2 {
+    flex-direction: column;
+  }
+  .club_row .club_inner,
+  .club_row2 .club_inner {
+    order: 0;
+    margin-bottom: 20px;
+  }
+
+  .mob1 .mob1_title {
+    width: 460px;
+    margin: 0 auto;
+    margin-top: 0px;
+  }
+  .mob1 .mob1_title h1 {
+    width: 300px;
+    letter-spacing: -0.64px;
+    font-size: 32px;
+    margin-top: 65px;
+  }
+  .mob1 .mob1_title p {
+    margin-top: 23px;
+    font-size: 16px;
+    margin-bottom: 43px;
+  }
+
+  .owl-carousel .owl-item img {
+    width: 92%;
+    margin: 0 auto;
+  }
+
+  .scooter_club {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child, .scooter_club_wrapper:last-child div:last-child p {
+    max-width: 500px;
+  }
+
+  .scooter_club_wrapper {
+    max-width: 500px;
+  }
+
+  .scooter_club_wrapper h1 {
+    font-size: 32px;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child h1 {
+    width: 420px;
+    font-size: 32px;
+  }
+
+  .scooter_club_img1 {
+    margin: 0 auto;
+  }
+  .scooter_club_img1 .scooter_club_img_background1 {
+    top: 10px;
+    width: 200px;
+    height: 220px;
+  }
+
+  .scooter_club_img1 img {
+    margin-left: 10px;
+    width: 120%;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child button {
+    margin-top: 27px;
+    font-size: 18px;
+    padding: 13.5px 0px;
+    width: 311px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer {
+    max-width: 1440px;
+  }
+  footer p {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 695px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 587px) {
+  .container {
+    margin-left: 8.53vw;
+  }
+
+  .header_subtitle .price2 {
+    padding: 8px 10px 4px 50px;
+    font-size: 2.17vw;
+  }
+
+  main {
+    margin-top: -169px;
+  }
+
+  .main_club h1 {
+    width: 80%;
+    margin-left: 32px;
+  }
+
+  .club_wrapper {
+    margin-top: 34px;
+  }
+  .club_wrapper br {
+    display: block;
+  }
+
+  .club_row,
+  .club_row2 {
+    max-width: 370px;
+    margin: 0 auto;
+  }
+  .club_row .club_inner,
+  .club_row .club_inner2,
+  .club_row2 .club_inner,
+  .club_row2 .club_inner2 {
+    display: flex;
+    align-items: center;
+    max-width: 400px;
+    margin-bottom: 0;
+    padding-left: 20px;
+  }
+
+  .club_row .club_inner p {
+    max-width: 210px;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  .club_row .club_inner img {
+    width: 23%;
+    margin-left: -5px;
+  }
+
+  .club_row .club_inner2 {
+    margin-top: 30px;
+  }
+  .club_row .club_inner2 img:first-child {
+    margin-top: 10px;
+    margin-left: -20px;
+    width: 27%;
+  }
+  .club_row .club_inner2 p {
+    width: 380px;
+    font-size: 16px;
+    margin-left: 22px;
+    margin-top: 0;
+  }
+
+  .club_row2 .club_inner {
+    margin-top: 30px;
+  }
+  .club_row2 .club_inner img:first-child {
+    margin-top: -8px;
+    margin-left: -15px;
+    width: 27%;
+  }
+  .club_row2 .club_inner p {
+    width: 220px;
+    font-size: 16px;
+    margin-left: 17px;
+    margin-top: -2px;
+  }
+
+  .club_row2 .club_inner2 {
+    margin-top: 30px;
+  }
+  .club_row2 .club_inner2 img:first-child {
+    margin-top: -6px;
+    margin-left: -4px;
+    width: 21%;
+  }
+  .club_row2 .club_inner2 p {
+    width: 210px;
+    font-size: 16px;
+    margin-left: 24px;
+    margin-top: -2px;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child h1 {
+    width: 220px;
+  }
+
+  .scooter_club_wrapper h1 {
+    width: 280px;
+  }
+
+  .scooter_club_wrapper:first-child div:first-child, .scooter_club_wrapper:last-child div:last-child {
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child p {
+    width: 300px;
+  }
+  .scooter_club_wrapper:last-child div:last-child p br {
+    display: flex;
+  }
+
+  .scooter_club_wrapper p {
+    font-size: 16px;
+  }
+
+  .scooter_club_img1 {
+    width: 300px;
+  }
+
+  .scooter_club_wrapper p {
+    margin-top: 23px;
+  }
+
+  .scooter_club {
+    margin-top: 42px;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child h1 {
+    margin-top: 6px;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child p {
+    margin-top: 23px;
+  }
+
+  footer {
+    max-width: 1440px;
+  }
+  footer p {
+    max-width: 400px;
+    font-size: 10px;
+    margin: 0 auto;
+    margin-top: 455px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 499px) {
+  .scooter_club_wrapper:last-child {
+    max-width: 300px;
+  }
+
+  .scooter_club {
+    width: 300px;
+    margin-left: 32px;
+  }
+
+  .scooter_club_wrapper {
+    width: 300px;
+  }
+}
+@media (max-width: 470px) {
+  .header_container {
+    margin: 0 auto;
+  }
+
+  .container {
+    width: 200px;
+  }
+
+  .samokat_img {
+    margin-top: -5px;
+    margin-left: -10px;
+    width: 93.07vw;
+  }
+
+  .header_subtitle .price2 {
+    padding: 6px 10px 3px 50px;
+    font-size: 2.77vw;
+  }
+
+  .club_row,
+  .club_row2 {
+    max-width: 320px;
+  }
+  .club_row .club_inner,
+  .club_row .club_inner2,
+  .club_row2 .club_inner,
+  .club_row2 .club_inner2 {
+    max-width: 320px;
+  }
+
+  .mob1 .mob1_title {
+    width: 300px;
+    margin-left: 32px;
+  }
+  .mob1 .mob1_title p br {
+    display: flex;
+  }
+}
+@media (max-width: 375px) {
+  .header_subtitle .price2 {
+    font-size: 3.67vw;
+  }
+
+  .scooter_club_img1 {
+    margin: 0 auto;
+  }
+  .scooter_club_img1 .scooter_club_img_background1 {
+    top: 140px;
+    width: 40px;
+    height: 30px;
+    transform: rotate(-140.03deg);
+    opacity: 0.89;
+    filter: blur(52px);
+  }
+
+  .scooter_club_wrapper:last-child div:last-child button {
+    margin-top: 27px;
+    font-size: 18px;
+    padding: 13.5px 0px;
+    width: 261px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer a {
+    font-size: 10px;
+  }
+  footer p {
+    max-width: 310px;
+    font-size: 10px;
+    margin-left: 30px;
+    margin-top: 475px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 350px) {
+  .container {
+    margin-left: 3.53vw;
+  }
+
+  .scooter_club_wrapper:last-child div:last-child button {
+    margin-top: 27px;
+    font-size: 18px;
+    padding: 13.5px 0px;
+    width: 261px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 332px) {
+  .mob1 .mob1_title {
+    width: 284px;
+  }
+
+  .mob1 .mob1_title h1 {
+    width: 250px;
+  }
+}
+
+/*# sourceMappingURL=style_mob.css.map */
