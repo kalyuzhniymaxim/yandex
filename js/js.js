@@ -4,7 +4,7 @@ $(".owl-carousel").owlCarousel({
     center: true,
     dots: true,
     nav:true,
-    navText: ["<img src='Group 120867.png'>", "<img src='Group 120861.png'>"],
+    navText: ["<img src='img/Group 120867.png'>", "<img src='img/Group 120861.png'>"],
     autoplay:true,
     autoplayTimeout:4000000,
     autoplayHoverPause:false,
